@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MY_STONE_AGE/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/MY_STONE_AGE/Scenes/1Scene.unity
+    guid: 96b5391f199fe7340b5a75e71070e285
+  - enabled: 1
+    path: Assets/MY_STONE_AGE/Scenes/2Scene.unity
+    guid: 192882998123da34f82bae6d4fc2c8a4
+  - enabled: 1
+    path: Assets/MY_STONE_AGE/Scenes/3Scene.unity
+    guid: 120712b4a2a374b41b7feab35db3d4db
+  - enabled: 1
+    path: Assets/MY_STONE_AGE/Scenes/4Scene.unity
+    guid: f392fa3ed5f192f4aa2e75bae0e14df9
+  - enabled: 1
+    path: Assets/MY_STONE_AGE/Scenes/5Scene.unity
+    guid: 701b190b33c1b5741847fefb31427e8e
+  m_configObjects: {}

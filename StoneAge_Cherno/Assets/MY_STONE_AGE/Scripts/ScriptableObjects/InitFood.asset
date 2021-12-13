@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3953958a43e4c674b9afc1b264c38b1d, type: 3}
+  m_Name: InitFood
+  m_EditorClassIdentifier: 
+  catalogFoods:
+  - name: banana
+    value: -0.2
+    count: 2
+  - name: mushroom
+    value: 0.4
+    count: 0
+  - name: orange
+    value: -0.2
+    count: 5
+  - name: lemon
+    value: -0.1
+    count: 2
+  - name: grape
+    value: -0.3
+    count: 1
+  - name: kokonut
+    value: -0.3
+    count: 8
+  - name: pineapple
+    value: -0.4
+    count: 6
+  - name: meat
+    value: -0.6
+    count: 0
+  - name: watermelon
+    value: -0.1
+    count: 0
+  - name: cherrie
+    value: -0.1
+    count: 1
+  - name: Finish
+    value: 0
+    count: 1

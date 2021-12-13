@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e360b37e44b4c544e83cc8dc9a06920a, type: 3}
+  m_Name: Sound Manager
+  m_EditorClassIdentifier: 
+  soundCollect: {fileID: 8300000, guid: c06a4de4f4c8fd84c8714fa2213188c5, type: 3}
+  soundLoseLife: {fileID: 8300000, guid: d33a906b14d83ee49b78683db5671c20, type: 3}
+  soundStone: {fileID: 8300000, guid: 76cf1d3362a3a2343a69384420b062f2, type: 3}
+  soundAxeTree: {fileID: 8300000, guid: 3ac4042f507b3a947a94fd349a6eeb6b, type: 3}
